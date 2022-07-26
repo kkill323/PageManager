@@ -1,0 +1,7 @@
+C:\Users\dave\Source\Repos\PageManagerApp\PageManagerApp\bin\Debug\PageManagerApp.exe.config
+C:\Users\dave\Source\Repos\PageManagerApp\PageManagerApp\bin\Debug\PageManagerApp.exe
+C:\Users\dave\Source\Repos\PageManagerApp\PageManagerApp\bin\Debug\PageManagerApp.pdb
+C:\Users\dave\Source\Repos\PageManagerApp\PageManagerApp\obj\Debug\PageManagerApp.csprojAssemblyReference.cache
+C:\Users\dave\Source\Repos\PageManagerApp\PageManagerApp\obj\Debug\PageManagerApp.csproj.CoreCompileInputs.cache
+C:\Users\dave\Source\Repos\PageManagerApp\PageManagerApp\obj\Debug\PageManagerApp.exe
+C:\Users\dave\Source\Repos\PageManagerApp\PageManagerApp\obj\Debug\PageManagerApp.pdb
