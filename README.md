@@ -1,4 +1,4 @@
-# PageManager is a unaversity assignment i did
+# PageManager is a university assignment i did
 This app is meant to simmulate two different page replacement policies on a fictional architecture. Here are the specifications for your system:
 10 pages of physical memory
 15 pages of swap space.
